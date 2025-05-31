@@ -1,15 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=800&size=30&pause=1000&color=F7F7F7&lines=Hi%2C+I'm+Rawan;Full-Stack+Developer)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="/pixil.gif" alt="Banner" width="100%">
+  <img src="/pixil-ezgif.com-loop-count.gif" alt="Banner" width="100%">
   
 </p>
-<script>
-  const img = document.getElementById('mygif');
-  setInterval(() => {
-    img.src = '/pixil.gif?v=' + new Date().getTime();
-  }, 5000);  // يعيد تحميل الصورة كل 5 ثواني
-</script>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=800&size=25&pause=1000&color=F7F7F7&lines=If+you+can't+do+great+things;+do+small+things+in+a+great+way)](https://git.io/typing-svg)
 # 💫 About Me:
 
