@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=800&size=30&pause=1000&color=F7F7F7&lines=Hi%2C+I'm+Rawan;Full-Stack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=800&size=30&pause=1000&color=F7F7F7&lines=Hi%2C+I'm+Rawan;Full-Stack+Web+Developer)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="/pixil-ezgif.com-loop-count.gif" alt="Banner" width="100%">
