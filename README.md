@@ -5,6 +5,69 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inconsolata&weight=800&size=25&pause=1000&color=F7F7F7&lines=If+you+can't+do+great+things;+do+small+things+in+a+great+way)](https://git.io/typing-svg)
+<p align="center">
+
+<svg width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+
+  <!-- Background -->
+  <rect width="800" height="220" fill="#0d1117"/>
+
+  <!-- Grid -->
+  <g opacity="0.15">
+    <defs>
+      <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
+        <rect width="20" height="20" fill="none" stroke="#7B52F4" stroke-width="1"/>
+      </pattern>
+    </defs>
+    <rect width="800" height="220" fill="url(#grid)" />
+  </g>
+
+  <!-- Pixel Blocks -->
+  <rect x="60" y="60" width="20" height="20" fill="#7B52F4">
+    <animate attributeName="y" values="60;50;60" dur="2s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="90" y="90" width="20" height="20" fill="#A084FF">
+    <animate attributeName="y" values="90;80;90" dur="1.8s" repeatCount="indefinite"/>
+  </rect>
+
+  <rect x="120" y="60" width="20" height="20" fill="#CDB4FF">
+    <animate attributeName="y" values="60;45;60" dur="1.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Terminal Window -->
+  <rect x="220" y="45" rx="12" ry="12" width="520" height="130" fill="#161b22" stroke="#7B52F4" stroke-width="2"/>
+
+  <!-- Terminal Dots -->
+  <circle cx="250" cy="70" r="6" fill="#ff5f56"/>
+  <circle cx="270" cy="70" r="6" fill="#ffbd2e"/>
+  <circle cx="290" cy="70" r="6" fill="#27c93f"/>
+
+  <!-- Typing Text -->
+  <text x="250" y="115"
+        fill="#C9D1D9"
+        font-family="monospace"
+        font-size="24"
+        font-weight="bold">
+    > Rawan Essam_
+    
+    <animate attributeName="opacity"
+             values="1;0;1"
+             dur="1s"
+             repeatCount="indefinite"/>
+  </text>
+
+  <text x="250" y="150"
+        fill="#7B52F4"
+        font-family="monospace"
+        font-size="18">
+    Full-Stack .NET Developer
+  </text>
+
+</svg>
+
+</p>
+
 
 # 💫 About Me:
 
