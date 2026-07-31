@@ -31,8 +31,8 @@
 
 
 
-##  About Me
 
+&nbsp; <h2 style="display:inline"> About Me</h2> &nbsp;
 <ul>
   <li> B.Sc. in Computer Science</li>
   <li> Junior Full-Stack .NET Developer</li>
@@ -45,13 +45,10 @@
 
 
 
-##  Tech Stack
-
-
 <div align="center">
 <div align="center">
   &nbsp; <h2 style="display:inline"> Tech Stack</h2> &nbsp;
-  <img src="retrocomputer.gif" width="70" alt="retro computer" />
+  <img src="https://github.com/Rawanessam1313/Rawanessam1313/blob/main/images/retrocomputer.gif" width="70" alt="retro computer" />
 </div>
   
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
@@ -74,11 +71,10 @@
 
 
 
-##  GitHub Analytics
 
 <div align="center">
 
-
+&nbsp; <h2 style="display:inline">GitHub Analytics</h2> &nbsp;
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=Rawanessam1313&theme=tokyonight&hide_border=true"/>
 
