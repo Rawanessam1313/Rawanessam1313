@@ -37,9 +37,10 @@
   <li> B.Sc. in Computer Science</li>
   <li> Junior Full-Stack .NET Developer</li>
   <li> My code has two modes: <b>"It works!"</b> and <b>"Why?"</b></li>
-  <li> Coffee helps me find semicolons. <img src="https://github.com/Rawanessam1313/Rawanessam1313/blob/main/images/download%20(3).gif" width="70" align="middle"/></li>
+  <li> Coffee first. Code second.                  <img src="https://github.com/Rawanessam1313/Rawanessam1313/blob/main/images/8-Bit Pixel Sticker - Find & Share on GIPHY.gif" width="70" align="middle"/></li>
   <li> I enjoy building modern web applications.</li>
-  <li> Still learning, still coding, still smiling. <img src="https://github.com/Rawanessam1313/Rawanessam1313/blob/main/images/download (4).gif" width="100" align="middle"/></li>
+  <li> Still learning, still coding, still smiling.        
+                   <img src="https://github.com/Rawanessam1313/Rawanessam1313/blob/main/images/download (4).gif" width="100" align="middle"/></li>
 </ul>
 
 
@@ -91,4 +92,4 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=778873&height=100&section=footer"
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=778873&height=100&section=footer">
