@@ -47,8 +47,13 @@
 
 ##  Tech Stack
 
-<div align="center">
 
+<div align="center">
+<div align="center">
+  &nbsp; <h2 style="display:inline"> Tech Stack</h2> &nbsp;
+  <img src="retrocomputer.gif" width="70" alt="retro computer" />
+</div>
+  
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
